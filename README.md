@@ -8,7 +8,7 @@
 <!-- 👯 I’m looking to collaborate on Rob_-->
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ...-->
-- 📫 How to reach me: [https://www.linkedin.com/in/aman-sagar-ba4820193/] {Linekdin}
+- 📫 How to reach me: [Linkedin] {https://www.linkedin.com/in/aman-sagar-ba4820193/}
 <!-- 😄 Pronouns: ... -->
 - ⚡ Fun fact: I drink Water.
 
