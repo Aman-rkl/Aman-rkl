@@ -3,10 +3,10 @@
 <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-rkl&theme=dark&hide_langs_below=1" /> -->
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=aman-rkl.visitor-badge"/> -->
 
-- 🔭 I’m currently working on Electronics
-- 🌱 I’m currently learning many things 
+- 🔭 I’m currently working on many projects.
+- 🌱 I’m currently learning electronics and vlsi.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aman-sagar-ba4820193/)
-- ⚡ Fun fact: I drink Water.
+- ⚡ Fun fact: I love PCB.
 <!-- 👯 I’m looking to collaborate on Rob_-->
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ...-->
