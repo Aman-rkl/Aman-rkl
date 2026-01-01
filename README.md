@@ -3,8 +3,8 @@
 <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-rkl&theme=dark&hide_langs_below=1" /> -->
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=aman-rkl.visitor-badge"/> -->
 
-- 🔭 I’m currently working on many projects.
-- 🌱 I want to pursure carrer in electronics .
+<!-- - 🔭 I’m currently working on many projects.
+- 🌱 I want to pursure carrer in electronics . -->
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aman-sagar-ba4820193/)
 - ⚡ Fun fact: I love PCB.
 <!-- 👯 I’m looking to collaborate on Rob_-->
