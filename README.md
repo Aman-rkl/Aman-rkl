@@ -6,6 +6,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=aman-rkl&color=brightgreen)
 ![GitHub Followers](https://img.shields.io/github/followers/aman-rkl?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/aman-rkl?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
+
+<p align="center">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aman streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-rkl&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</p>
+
 <!-- - 🔭 I’m currently working on many projects.
 - 🌱 I want to pursure carrer in electronics . -->
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aman-sagar-ba4820193/)
